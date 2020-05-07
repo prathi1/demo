@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+}
+
+
+
+.App-header3 {
+  background-color: #94d5e9;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+
+.App-header1 {
+  background-color: #e3c8f3;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+
+.header {
+ 
+  align-items: center;
+  font-family: verdana;
+  color: rgb(25, 25, 134);
+}
+.mark{
+ 
+    background-color: rgb(247, 243, 45);
+    color: black;
+  
+}
+
+.App-header2 {
+  background-color: #77b5df;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+
+
